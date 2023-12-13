@@ -1,20 +1,18 @@
-
 # My Resume App
 
-Here i am create one Application for hold my all data and show the interviewer.
+Here, I created an application to save all my data and show it to the interviewer.
 
+## First steps
 
-## Getting Started
-
-this a simple app not using any sql connectivety
+this is a simple application that does not use SQL connectivity
 
 ### Prerequisites / Installation
 
-1) Android Studio Latest Version : https://developer.android.com/studio
-2) Java Latest version : https://www.oracle.com/java/technologies/downloads/
-3) All version compactable 
+1) Android Studio Latest version: https://developer.android.com/studio
+2) Java, Latest version: https://www.oracle.com/java/technologies/downloads/
+3) All versions compactable
 
-#### ScreeShot 
+#### Background noise
 
 
 
